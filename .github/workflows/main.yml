@@ -20,4 +20,4 @@ jobs:
         username: devun_37738112
         password: 415b27090cbb5f9
         local-dir: ./
-        server-dir: /htdocs/6ammart-web/
+        server-dir: /htdocs/mart/
